@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+        String productName = "Laptop";
+        int productId = 101;
+        double price = 45999.99;
+        boolean available = true;
+
+        System.out.println("PRODUCT INFORMATION");
+        System.out.println("Product Name: " + productName);
+        System.out.println("Product ID: " + productId);
+        System.out.println("Price: " + price);
+        System.out.println("Available: " + available);
+    }
+}
